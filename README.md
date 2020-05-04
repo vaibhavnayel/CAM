@@ -1,7 +1,7 @@
 # Class Activation Mapping
 Use this repository to train and visualize class activation maps on any [Pytorch](pytorch.org) model.
 
-![sample car obj](https://github.com/vaibhavnayel/meshmorpher/blob/master/image.png)
+![sample car obj](https://raw.githubusercontent.com/vaibhavnayel/CAM/master/CAM.png)
 
 ## Method
 
